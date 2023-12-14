@@ -6,7 +6,9 @@
 
 ## Table of Contents
 * [Foundation](#foundation)
-* [Scheduling](#scheduling) 
+* [Scheduling](#schedule)
+* [Initial_Sketches](#initial_sketches)
+* [List_Of_Materials](#list_of_materials)
   
 &nbsp;
 
@@ -24,6 +26,7 @@ We want to be safe by making sure the zone under the flight path is clear just i
 
 ### What we need to learn
 We need to figure out the following: How does RC work and how should the pico interpret those signals? How big does the prop need to be and how powerful + lightweight of a motor do we need to create liftoff? What type of airfoil is the best for an RC plane of our size and weight? How do we make the connected wings into a functional airfoil? Does an RC plane of our size and weight need ailerons on both the main wings and tail wings? What is the angle of attack where an RC plane with our chosen airfoils starts to stall?
+
 
 
 ## Schedule
@@ -80,3 +83,28 @@ Week 21 (5/6-5/10) Analyze data collected and document
 Week 22 (5/13-5/17) Finishing touches on whatever criteria needed
 
 
+
+## Initial_Sketches
+![sketch1](images/sketch1.png)
+
+![sketch2](images/sketch2.png)
+
+![sketch3](images/sketch3.png)
+
+![sketch4](images/sketch4.png)
+
+
+
+## List_Of_Materials
+
+|Material|Amount|Cost||
+|------|---------|---------|---------|
+|7.649 |0.550666 |8.71489  |8.81784  |
+|8.782 |0.565032 |8.84658  |8.87052  |
+|9.912 |0.538695 |8.75799  |8.76278  |
+|11.041|0.548272 |8.78672  |8.69335  |
+|12.17 |0.52433  |8.7532   |8.61434  |
+|13.297|10.7763  |2.59771  |2.39899  |
+|14.433|-4.75967 |10.4531  |10.6446  |1  |
+|15.564|-8.66701 |1.00556  |0.967257 |1  |
+|16
