@@ -30,38 +30,53 @@ We need to figure out the following: How does RC work and how should the pico in
 
 ### Planning:
 Week 1 (12/1-12/8) planning 
+
 Week 2 (12/11-12/15) finish Planning 
+
 Week 3 (1/2-1/5) prototype body with shop materials 
 
 ### Stage 1:
 Week 4 (1/8-1/12) Prototype body within CAD
+
 Week 5 (1/15-1/19) Start Code for servos and refine CAD + RC connection
+
 Week 6 (1/22-1/26) Print and assemble first prototype
 
 ### Stage 2:
 Week 7 (1/29-2/2) Work out kinks in prototype, plan for motor/prop
+
 Week 8 (2/5-2/9) work on code and CAD V2 (with motor)
 
 ### Stage 3:
 Week 9 (2/12-2/16) Start working with afton’s team on linkage, start those CAD parts
+
 Week 10 (2/19-2/23) Code the delink protocol and complete prototype with link
+
 Week 11 (2/26-3/1) Touch up delink/motor/rc, figuring out weight, first successful solo flights
 
 ### Stage 4:
 Week 12 (3/4-3/8) Plan with Afton’s team for linked takeoff, modify CAD/code if needed
+
 Week 13 (3/11-3/15) Test linked takeoff, find issues and fix, test accelerometer data
+
 Week 14 (3/18-3/22) Test detachment protocols in air, find issues and fix
+
 Week 15 (3/25-3/29) Last minute fixes and touch ups, prepare for launch
 
 ### Launching:
 Week 16 (4/1-4/5) Launch PLAIN and collect data/watch other projects launch
+
 Week 17 (4/8-4/12) Launch PLAIN and collect data/watch other projects launch
+
 Week 18 (4/15-4/19) Launch PLAIN and collect data/watch other projects launch
 
 ### Analysis:
 Week 19 (4/22-4/26) Analyze data collected and document
+
 Week 20 (4/29-5/3) Analyze data collected and document
+
 Week 21 (5/6-5/10) Analyze data collected and document
+
 Week 22 (5/13-5/17) Finishing touches on whatever criteria needed
 
 
