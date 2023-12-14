@@ -97,14 +97,18 @@ Week 22 (5/13-5/17) Finishing touches on whatever criteria needed
 
 ## List_Of_Materials
 
-|Material|Amount|Cost||
-|------|---------|---------|---------|
-|7.649 |0.550666 |8.71489  |8.81784  |
-|8.782 |0.565032 |8.84658  |8.87052  |
-|9.912 |0.538695 |8.75799  |8.76278  |
-|11.041|0.548272 |8.78672  |8.69335  |
-|12.17 |0.52433  |8.7532   |8.61434  |
-|13.297|10.7763  |2.59771  |2.39899  |
-|14.433|-4.75967 |10.4531  |10.6446  |1  |
-|15.564|-8.66701 |1.00556  |0.967257 |1  |
-|16
+|Material|Amount|Cost|
+|------|---------|---------|
+|Pico|1x|$5|
+|Servo|4x|$20|
+|Hot Glue|1 stick|$1|
+|Carboard|2 sheets|$2|
+|Bolts|10x|$1 |
+|Accelerometer|1x|$3|
+|RC kit|1x|$10|
+|Breadboard|1x|$2|
+|Jumper wires|30x|$5|
+|Acrylic|1 sheet|$2|
+|Nuts|10x|$1|
+|Balsa wood|2 sheets|$5|
+|TOTAL| |$57|
