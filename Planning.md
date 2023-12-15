@@ -117,7 +117,7 @@ Week 22 (5/13-5/17) Finishing touches on whatever criteria needed
 
 
 ## Code_Block_Diagram
-![Steering](images/sterringCBD.png)
+![Steering](images/steeringCBD.png)
 
 ![Throttle](images/throttleCBD.png)
 
