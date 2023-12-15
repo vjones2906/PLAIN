@@ -8,11 +8,17 @@
 * [Problem](#identify_problem)
 * [Resorces_and_Constraints](#identify_resources_and_constraints)
 * [Brainstorm](#brainstorm_ideas)
-  
+* [Solution](#pick_a_solution)
+* [Initial_Design](#develop_an_initial_design)
+* [Prototype](#construct_a_prototype)
+* [Test](#test_design)
+* [Refine_and_Optimize](#refine_and_optimize_design)
+* [Present](#present_finished_product)
+
 &nbsp;
 
 
-## Identify_Problem  
+## Identify_problem  
 Our problem is that there is only 1 runway and a limited time of takeoff but we have 2 planes that need to fly in different directions and gather different data. 
 
 
@@ -29,3 +35,21 @@ We could make a small plane inside of a bigger plane and then release the small 
 
 We could make two parts to the same plane that split off and go different directions
 
+
+## Pick_a_solution
+We will attach both planes wing-to-wing at takeoff and then disconnect in the air and fly down in separate directions while collecting data.
+
+
+## Develop_an_initial_design
+
+
+## Construct_a_prototype
+
+
+## Test_design
+
+
+## Refine_and_optimize_design
+
+
+## Present_finished_product
