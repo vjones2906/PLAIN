@@ -5,7 +5,7 @@
 
 
 ## Table of Contents
-* [Planning](planning.md)
+* [Planning](Planning.md)
   
 &nbsp;
 
