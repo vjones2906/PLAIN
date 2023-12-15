@@ -5,13 +5,11 @@
 
 
 ## Table of Contents
-* [Planning](planning)
+* [Planning](planning.md)
   
 &nbsp;
 
 
-## Planning
 
-### 
 
 
