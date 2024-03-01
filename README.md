@@ -6,7 +6,7 @@
 
 ## Table of Contents
 * [Planning](Planning.md)
-* [Phase 0](#phase_0)
+* [Phase 0](#phase 0)
 * [Phase 1](#phase_1)
 * [Phase 2](#phase_2)
 * [Phase 3](#phase_3)
