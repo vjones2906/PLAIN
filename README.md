@@ -15,7 +15,7 @@
 &nbsp;
 
 ## Phase_0
-### Week_1
+### Week 1
 #### Reflection
 
 This week we worked on our planning document. We created, outlined, and filled in most of our google doc. We drew up our first sketches and calculated the cost of parts while also starting to outline our timeline. 
@@ -23,7 +23,7 @@ This week we worked on our planning document. We created, outlined, and filled i
 #### Images
 
 
-### Week_2
+### Week 2
 #### Reflection
 
 This week we finished our planning document. We finished the timeline and the rest of the google doc. Then we created a github repo and moved all of the information from the doc to the github planning document. 
@@ -31,70 +31,70 @@ This week we finished our planning document. We finished the timeline and the re
 #### Images
 
 
-### Week_3
+### Week 3
 #### Reflection
 #### Images
 
 
 ## Phase_1
-### Week_4
+### Week 4
 #### Reflection
 #### Images
 
 
-### Week_5
+### Week 5
 #### Reflection
 #### Images
 
 
-### Week_6
+### Week 6
 #### Reflection
 #### Images
 
 
 ## Phase_2
-### Week_7
+### Week 7
 #### Reflection
 #### Images
 
 
-### Week_8
+### Week 8
 #### Reflection
 #### Images
 
 
 ## Phase_3
-### Week_9
+### Week 9
 #### Reflection
 #### Images
 
 
-### Week_10
+### Week 10
 #### Reflection
 #### Images
 
 
-### Week_11
+### Week 11
 #### Reflection
 #### Images
 
 ## Phase_4
-### Week_12
+### Week 12
 #### Reflection
 #### Images
 
 
-### Week_13
+### Week 13
 #### Reflection
 #### Images
 
 
-### Week_14
+### Week 14
 #### Reflection
 #### Images
 
 
-### Week_15
+### Week 15
 #### Reflection
 #### Images
 
