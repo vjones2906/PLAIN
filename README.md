@@ -18,10 +18,11 @@
 ### Week 1
 #### Reflection
 
-This week we worked on our planning document. We created, outlined, and filled in most of our google doc. We drew up our first sketches and calculated the cost of parts while also starting to outline our timeline. 
+This week we worked on our planning document. We created, outlined, and filled in most of our google doc. We drew up our first sketches and calculated the cost of parts while also starting to outline our timeline. This week was mainly talking with Afton's group and brainstorming how we wanted to do the linkage.
 
 #### Images
-
+![sketch1](images/sketch1.png)
+![sketch2](images/sketch3.png)
 
 ### Week 2
 #### Reflection
