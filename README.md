@@ -6,39 +6,40 @@
 
 ## Table of Contents
 * [Planning](Planning.md)
-* [Week_1](#week_1)
-* [Week_2](#week_2)
-* [Week_3](#week_3)
-* [Week_4](#week_4)
-* [Week_5](#week_5)
-* [Week_6](#week_6)
-* [Week_7](#week_7)
-* [Week_8](#week_8)
-* [Week_9](#week_9)
-* [Week_10](#week_10)
-* [Week_11](#week_11)
-* [Week_12](#week_12)
-* [Week_13](#week_13)
+* [Phase_0](#phase_0)
+* [Phase_1](#phase_1)
+* [Phase_2](#phase_2)
+* [Phase_3](#phase_3)
+* [Phase_4](#phase_4)
+  
 &nbsp;
 
-## Week_1
-### Reflection
-### Images
+## Phase_0
+### Week_1
+#### Reflection
+
+This week we worked on our planning document. We created, outlined, and filled in most of our google doc. We drew up our first sketches and calculated the cost of parts while also starting to outline our timeline. 
+
+#### Images
 
 
-## Week_2
-### Reflection
-### Images
+### Week_2
+#### Reflection
+
+This week we finished our planning document. We finished the timeline and the rest of the google doc. Then we created a github repo and moved all of the information from the doc to the github planning document. 
+
+#### Images
 
 
-## Week_3
-### Reflection
-### Images
+#### Week_3
+##### Reflection
+##### Images
 
 
-## Week_4
-### Reflection
-### Images
+## Phase_1
+### Week_4
+#### Reflection
+#### Images
 
 
 ## Week_5
