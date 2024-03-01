@@ -31,9 +31,9 @@ This week we finished our planning document. We finished the timeline and the re
 #### Images
 
 
-#### Week_3
-##### Reflection
-##### Images
+### Week_3
+#### Reflection
+#### Images
 
 
 ## Phase_1
@@ -42,49 +42,61 @@ This week we finished our planning document. We finished the timeline and the re
 #### Images
 
 
-## Week_5
-### Reflection
-### Images
+### Week_5
+#### Reflection
+#### Images
 
 
-## Week_6
-### Reflection
-### Images
+### Week_6
+#### Reflection
+#### Images
 
 
-## Week_7
-### Reflection
-### Images
+## Phase_2
+### Week_7
+#### Reflection
+#### Images
 
 
-## Week_8
-### Reflection
-### Images
+### Week_8
+#### Reflection
+#### Images
 
 
-## Week_9
-### Reflection
-### Images
+## Phase_3
+### Week_9
+#### Reflection
+#### Images
 
 
-## Week_10
-### Reflection
-### Images
+### Week_10
+#### Reflection
+#### Images
 
 
-## Week_11
-### Reflection
-### Images
+### Week_11
+#### Reflection
+#### Images
+
+## Phase_4
+### Week_12
+#### Reflection
+#### Images
 
 
-## Week_12
-### Reflection
-### Images
+### Week_13
+#### Reflection
+#### Images
 
 
-## Week_13
-### Reflection
-### Images
+### Week_14
+#### Reflection
+#### Images
+
+
+### Week_15
+#### Reflection
+#### Images
 
 
 
