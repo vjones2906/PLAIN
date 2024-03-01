@@ -34,8 +34,11 @@ This week we completed our planning document. We finished the timeline, code blo
 
 ### Week 3
 #### Reflection
-#### Images
 
+This week we prototyped the PLAIN with shop materials. Vinnie was out sick this week so Matthias had to take charge and created our prototype. Matthias made it out of wood, styrofoam, and a motor. The prototype did not fly and was not areodynamic at all. We decided that it was best to move on with the project and not waste too much time trying to made a working prototype. 
+
+#### Images
+![prototype](images/prototype.png)
 
 ## Phase_1
 ### Week 4
