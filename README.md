@@ -27,10 +27,10 @@ This week we worked on our planning document. We created, outlined, and filled i
 ### Week 2
 #### Reflection
 
-This week we finished our planning document. We finished the timeline and the rest of the google doc. Then we created a github repo and moved all of the information from the doc to the github planning document. 
+This week we completed our planning document. We finished the timeline, code blocks, and the rest of the google doc. Then we created a github repo and moved all of the information from the doc to the github planning document. We fleshed out a more concrete plan with aftons group and made our schedueles so that there was a lot of overlap and we would check in every now and then. 
 
 #### Images
-
+![cbd](images/steeringCBD.png)
 
 ### Week 3
 #### Reflection
