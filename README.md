@@ -43,7 +43,11 @@ This week we prototyped the PLAIN with shop materials. Vinnie was out sick this 
 ## Phase_1
 ### Week 4
 #### Reflection
+
+This week we worked together to make the first prototype in CAD. A general style was followed rather than planning for real world functionality. The only thing that was made to realistic standards was the air foil of the aft horizontal stabilizers. The air foil was made with a spline and modeling a common RC plane air foil.
+
 #### Images
+![cadprototype](images/cadprototype1.png)
 
 
 ### Week 5
