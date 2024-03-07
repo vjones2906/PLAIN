@@ -73,6 +73,7 @@ This week we cut and built the prototype for the rib design. The laser printed p
 #### Reflection
 
 This week Matthias tried to fix the prototype while Vinnie worked on getting the RC to give signals that he was able to recieve and use as inputs in his code. The rib prototype did not end up looking redeemable to matthias and after much frustration it was scrapped. 
+Vinnie got a servo to be able to turn using only RC as inputs. 
 
 #### Images
 ![rcinputscode](images/rcinputscode.png)
