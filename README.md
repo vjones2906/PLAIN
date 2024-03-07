@@ -65,7 +65,7 @@ This week we cut and built the prototype for the rib design. The laser printed p
 
 
 #### Images
-![potcode](images/ribprototype.jpeg)
+![potcode](images/ribprototype.jpg)
 ![potcode](images/rclights.gif)
 
 ## Phase_2
