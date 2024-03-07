@@ -56,7 +56,7 @@ This week Vinnie started the code, and as a proof of concept he wanted to wire a
 
 #### Images
 ![potcode](images/potcode.png)
-![ribs](images/Rib_Design.png)
+![ribs](images/RibDesign.png)
 
 ### Week 6
 #### Reflection
