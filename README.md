@@ -49,11 +49,14 @@ This week we worked together to make the first prototype in CAD. A general style
 #### Images
 ![cadprototype](images/cadprototype1.png)
 
-
 ### Week 5
 #### Reflection
-#### Images
 
+This week Vinnie started the code, and as a proof of concept he wanted to wire a potentiometer to a motor and have it cotrol the speed using the map function. He also orderd the RC components to hopefully start working on it asap. Matthias started a new CAD design and thought it would be a good idea to make the fusalodge deign layer by layer and then connect them by two pins.
+
+#### Images
+![potcode](images/potcode.png)
+![ribs](images/Rib_Design.png)
 
 ### Week 6
 #### Reflection
