@@ -106,7 +106,7 @@ This week we were supposed to code the delink protocol and complete the prototyp
 ### Week 11
 #### Reflection
 
-This week we were supposed to touch up the delink/motor/rc, figuring out weight, first successful solo flights. None of these were acheivable. The link had not been finished, yet alone started with Afton's group. The motor came but Vinnie was busy trying to figure out voltage dividers. The RC needed the motor to be finished, and the PLAIN hadn't been fabricated so the weight and flight could not be acheived. This week matthias got closer to the finished product in CAD and Vinnie realized he didn't actually need the voltage divider from the 9v because the actual motor needed many more amps than a 9v with split outputs had to offer. 
+This week we were supposed to touch up the delink/motor/rc, figuring out weight, first successful solo flights. None of these were acheivable. The link had not been finished, yet alone started with Afton's group. The motor came but Vinnie was busy trying to figure out voltage dividers. The RC needed the motor to be finished, and the PLAIN hadn't been fabricated so the weight and flight could not be acheived. This week matthias got closer to the finished product in CAD and Vinnie realized he didn't actually need the voltage divider from the 9v because the actual motor needed many more amps than a 9v with split outputs had to offer. Vinnie started to catch up on the documentation. 
 
 #### Images
 ![closercad](images/FusalageXWings.png)
@@ -114,6 +114,9 @@ This week we were supposed to touch up the delink/motor/rc, figuring out weight,
 ## Phase_4
 ### Week 12
 #### Reflection
+
+This week we were supposed to plan with Afton’s team for linked takeoff but we could neither link nor takeoff. Matthias worked on the last weight reductions and was close to done. Vinnie kept working on the documentaion and caught up to the current date. Vinnie also searched the back for a battery and charger that they could use in the PLAIN. 
+
 #### Images
 
 
