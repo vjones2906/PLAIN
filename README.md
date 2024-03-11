@@ -72,16 +72,18 @@ This week we cut and built the prototype for the rib design. The laser printed p
 ### Week 7
 #### Reflection
 
-This week Matthias tried to fix the prototype while Vinnie worked on getting the RC to give signals that he was able to recieve and use as inputs in his code. The rib prototype did not end up looking redeemable to matthias and after much frustration it was scrapped. 
-Vinnie got a servo to be able to turn using only RC as inputs. 
+This week Matthias tried to fix the prototype while Vinnie worked on getting the RC to give signals that he was able to recieve and use as inputs in his code. The rib prototype did not end up looking redeemable to matthias and after much frustration it was scrapped. Vinnie got a servo to be able to turn using only RC as inputs. 
 
 #### Images
 ![rcinputscode](images/rcinputscode.png)
 
 ### Week 8
 #### Reflection
-#### Images
 
+This week Matthias tried a new cad design that HIGHLY resembled a neighboring groups CAD. Aside from the apparent problems, the biggest one was that the design he was "inspired by" was meant to be a glider and in no way had the design intention of gaining speed and producing lift with a motor. Vinnie continued working with the RC and expirimented with the wiring. He also ordered the motor so that he could start working on it. 
+
+#### Images
+![copycat](images/Copycatdesign.png)
 
 ## Phase_3
 ### Week 9
