@@ -92,7 +92,7 @@ This week Matthias tried a new cad design that HIGHLY resembled a neighboring gr
 This week we were supposed to work on linkage with Afton's team but both of our groups were not ready to link yet. Matthias scrapped the copycat design and then started working on a more solid design that we will hopefully use in the final design. Vinnie started working on voltage dividers so there could be one power source that powers the pico and motors together. 
 
 #### Images
-
+![winglite](images/Wing2.png)
 
 ### Week 10
 #### Reflection
