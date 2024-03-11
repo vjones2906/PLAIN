@@ -96,8 +96,11 @@ This week we were supposed to work on linkage with Afton's team but both of our 
 
 ### Week 10
 #### Reflection
-#### Images
 
+This week we were supposed to code the delink protocol and complete the prototype with link. Neither of these things happened because Matthias was still working on his design for CAD and hadn't laser cut it yet. Vinnie was still working on the voltage dividers and experimenting with Mr. Miller's resitor book with many different types of resistors. 
+
+#### Images
+![badcad](images/LMAO.png)
 
 ### Week 11
 #### Reflection
