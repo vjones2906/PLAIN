@@ -101,6 +101,7 @@ This week we were supposed to code the delink protocol and complete the prototyp
 
 #### Images
 ![badcad](images/LMAO.png)
+![resistors](images/resistors.jpg)
 
 ### Week 11
 #### Reflection
