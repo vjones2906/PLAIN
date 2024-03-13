@@ -118,7 +118,7 @@ This week we were supposed to touch up the delink/motor/rc, figuring out weight,
 This week we were supposed to plan with Afton’s team for linked takeoff but we could neither link nor takeoff. Matthias worked on the last weight reductions and was close to done. Vinnie kept working on the documentaion and caught up to the current date. Vinnie also searched the back for a battery and charger that they could use in the PLAIN. 
 
 #### Images
-
+![hollowing](images/Wing1.png)
 
 ### Week 13
 #### Reflection
