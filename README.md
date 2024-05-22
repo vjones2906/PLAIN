@@ -11,7 +11,10 @@
 * [Phase 2](#phase_2)
 * [Phase 3](#phase_3)
 * [Phase 4](#phase_4)
-  
+* [Launching](#launching)
+* [Analysis](#analysis)
+
+
 &nbsp;
 
 ## Phase_0
@@ -149,6 +152,7 @@ This week Matthias worked on readjusting the plain to make it more aerodynamic a
 ![Aerodynamic fuslage](images/Moreaerodyncicfuslge.png)
 ![Sketch explination](images/Smartexplination.png)
 
+## Launching
 ### Week 16
 #### Reflection
 
@@ -168,8 +172,7 @@ This week Matthias and Vinnie went to texas and visited big bend national park f
 #### Reflection
 #### Images
 
-
-
+## Analysis
 ### Week 19
 #### Reflection
 #### Images
