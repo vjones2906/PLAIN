@@ -55,7 +55,7 @@ This week we worked together to make the first prototype in CAD. A general style
 ### Week 5
 #### Reflection
 
-This week Vinnie started the code, and as a proof of concept he wanted to wire a potentiometer to a motor and have it cotrol the speed using the map function. He also orderd the RC components to hopefully start working on it asap. Matthias started a new CAD design and thought it would be a good idea to make the fuselage deign layer by layer and then connect them by two pins.
+This week Vinnie started the code, and as a proof of concept he wanted to wire a potentiometer to a motor and have it cotrol the speed using the map function. He also orderd the RC components to hopefully start working on it ASAP. Matthias started a new CAD design and thought it would be a good idea to make the fuselage deign layer by layer and then connect them by two pins.
 
 #### Images
 ![potcode](images/potcode.png)
@@ -64,18 +64,18 @@ This week Vinnie started the code, and as a proof of concept he wanted to wire a
 ### Week 6
 #### Reflection
 
-This week we cut and built the prototype for the rib design. The laser printed pins didn't fit tightly all the way through and there was no plan on how to connect the wings so it turned out just to be a losely fitting body. Vinnie also worked on getting the RC to work and eventually got a succesful wireless conection and it turned on lights on command.   
+This week we cut and built the prototype for the rib design. The laser printed pins didn't fit tightly all the way through and there was no plan on how to connect the wings so it turned out just to be a losely fitting body. Vinnie also worked on getting the RC to function and eventually got a succesful wireless conection and it turned on lights on command. It was hard initially because he didn't know to pullup or to pulldown and forgot that it would function the same a normal button.   
 
 
 #### Images
-![potcode](images/ribprototype.jpg)
-![potcode](images/rclights.gif)
+![ribprototype](images/ribprototype.jpg)
+![rlights](images/rclights.gif)
 
 ## Phase_2
 ### Week 7
 #### Reflection
 
-This week Matthias tried to fix the prototype while Vinnie worked on getting the RC to give signals that he was able to recieve and use as inputs in his code. The rib prototype did not end up looking redeemable to matthias and after much frustration it was scrapped. Vinnie got a servo to be able to turn using only RC as inputs. 
+This week Matthias tried to fix the prototype while Vinnie worked on getting the RC to give signals that he was able to recieve and use as inputs in his code. The rib prototype did not end up looking redeemable to matthias and after much frustration it was scrapped. Vinnie got a servo to be able to turn using only RC as inputs. He used code from earlier in the year to make the process easier. 
 
 #### Images
 ![rcinputscode](images/rcinputscode.png)
@@ -92,7 +92,7 @@ This week Matthias tried a new cad design that HIGHLY resembled a neighboring gr
 ### Week 9
 #### Reflection
 
-This week we were supposed to work on linkage with Afton's team but both of our groups were not ready to link yet. Matthias scrapped the copycat design and then started working on a more solid design that we will hopefully use in the final design. Vinnie started working on voltage dividers so there could be one power source that powers the pico and motors together. 
+This week we were supposed to work on linkage with Afton's team but both of our groups were not ready to link yet. Matthias scrapped the copycat design and then started working on a more solid design that we will hopefully use in the final version. Vinnie started working on voltage dividers so there could be one power source that powers the pico and motors together. This required much googling and circuit planning.
 
 #### Images
 ![winglite](images/Wing2.png)
@@ -100,7 +100,7 @@ This week we were supposed to work on linkage with Afton's team but both of our 
 ### Week 10
 #### Reflection
 
-This week we were supposed to code the delink protocol and complete the prototype with link. Neither of these things happened because Matthias was still working on his design for CAD and hadn't laser cut it yet. Vinnie was still working on the voltage dividers and experimenting with Mr. Miller's resitor book with many different types of resistors. Matthias also put the servo mount on to the bottom of the wings so that it would be easy to control the flap movement, this idea was also used by matthew and afton on their first iteration.
+This week we were supposed to code the delink protocol and complete the prototype with link. Neither of these things happened because Matthias was still working on his design for CAD and hadn't laser cut it yet. Vinnie was still working on the voltage dividers and experimenting with Mr. Miller's resitor book with many different types of resistors. Matthias also put the servo mount on to the bottom of the wings so that it would be easy to control the flap movement, this idea was also used by Matthew and Afton on their first iteration.
 
 #### Images
 ![badcad](images/LMAO.png)
@@ -109,7 +109,7 @@ This week we were supposed to code the delink protocol and complete the prototyp
 ### Week 11
 #### Reflection
 
-This week we were supposed to touch up the delink/motor/rc, figuring out weight, first successful solo flights. None of these were acheivable. The link had not been finished, yet alone started with Afton's group. The motor came but Vinnie was busy trying to figure out voltage dividers. The RC needed the motor to be finished, and the PLAIN hadn't been fabricated so the weight and flight could not be acheived. This week matthias got closer to the finished product in CAD and Vinnie realized he didn't actually need the voltage divider from the 9v because the actual motor needed many more amps than a 9v with split outputs had to offer. Vinnie started to catch up on the documentation. 
+This week we were supposed to touch up the delink/motor/rc, figuring out weight, first successful solo flights. None of these were acheivable. The link had not been finished, yet alone started with Afton's group. The motor came but Vinnie was busy trying to figure out voltage dividers. The RC needed the motor to be finished, and the PLAIN hadn't been fabricated so the weight and flight could not be acheived. This week matthias got closer to the finished product in CAD and Vinnie realized he didn't actually need the voltage divider from the 9v because the actual motor needed many more amps than a 9v with many outputs had to offer. Vinnie started to catch up on the documentation. 
 
 #### Images
 ![closercad](images/FusalageXWings.png)
@@ -126,18 +126,19 @@ This week we were supposed to plan with Afton’s team for linked takeoff but we
 ### Week 13
 #### Reflection
 
-This week we decided to scrap the connection launch because both teams were to far behind to have enough time to test and get good results. Matthias worked on making the wings thinner and hopefully reducing the weight of the plain overall, the wing change was also realized because we did not need such a tall airfoil and the length was going to be more important. This was achieved by changing the shape of the airfoil making every part of the airfoil 1mm thick. The motor finally got dilivered from China so Vinnie was setting it up and soldered
-#### Images
+This week we decided to scrap the connection launch because both teams were to far behind to have enough time to test and get good results. Matthias worked on making the wings thinner and hopefully reducing the weight of the plain overall, the wing change was also realized because we did not need such a tall airfoil and the length was going to be more important. This was achieved by changing the shape of the airfoil making every part of the airfoil 1mm thick. Vinnie started setting up the motor and soldered the right connector on the battery so that it worked with the motor. He started looking online for the code for the specific motor and found a few examples.
 
+#### Images
 ![thick wing](images/Wing1thick.png)
 ![thin wing](images/newthinwing.png)
+![batteryandmotor](images/batteryandmotor.jpg)
 
 ### Week 14
 #### Reflection
 
-This week we both decided it would be a good idea to move on from the round design of our fusalage to a more square design that would be both easier to make and would allow for all of our electronics to fit better in the fusalage and have a better centre of mass. Matthias also found a new design that we agreed was a good idea to model off of. With the new design Matthias decided to move the servos onto the fusalage and put the wings onto the top of the plain which we believe would allow for more lift.
-#### Images
+This week we both decided it would be a good idea to move on from the round design of our fusalage to a more square design that would be both easier to make and would allow for all of our electronics to fit better in the fusalage and have a better centre of mass. Matthias also found a new design that we agreed was a good idea to model off of. With the new design Matthias decided to move the servos onto the fusalage and put the wings onto the top of the plain which we believe would allow for more lift. This week Vinnie got his wisdom teeth removed so he was not able to work on the PLAIN.
 
+#### Images
 ![modeldesign](images/Modeleddesign.png)
 ![roundfuslage](images/roundfuslage.png)
 ![first square iteration](images/Frontpeice.png)
@@ -145,36 +146,46 @@ This week we both decided it would be a good idea to move on from the round desi
 ### Week 15
 #### Reflection
 
-This week Matthias worked on readjusting the plain to make it more aerodynamic and changing the way that the front was angled and adding more supports for the wing connection. Additionally, Matthias put on the back of the fusalage and used a friction fit design which incorperated a 2.45mm diameter metal rods in order to connect the peices together. Matthias used both sketches and fillets in order to make the plain more aerodynamic and also had trouble because the bottom corners of the fuslage were too thin so he had to add a little more filling on the inside of the plain, he did this by using a conic as the top and using the bottom edge of the fuselage to create a sketch then extruded that sketch 2mm into the fuslage to fix the thin issue.
-#### Images
+This week Matthias worked on readjusting the plain to make it more aerodynamic and changing the way that the front was angled and adding more supports for the wing connection. Additionally, Matthias put on the back of the fusalage and used a friction fit design which incorperated a 2.45mm diameter metal rods in order to connect the peices together. Matthias used both sketches and fillets in order to make the plain more aerodynamic and also had trouble because the bottom corners of the fuslage were too thin so he had to add a little more filling on the inside of the plain, he did this by using a conic as the top and using the bottom edge of the fuselage to create a sketch then extruded that sketch 2mm into the fuslage to fix the thin issue. This week Vinnie got the motor code working and was able to turn on the motor with the remote control. The code made it so that one button increased the value from 50(rest) to 100(full trottle) by 1 per 0.05 seconds and then decrease by .75 per 0.05 seconds if a second button was pressed. The hardest part was figuring out how to format the motor controller in the code and it required a line that said: dval = int(val)*65535/100. This line converted from bianary to a value the motor controller could use.  
 
+#### Images
 ![back fuslage](images/Backp2picture.png)
 ![Aerodynamic fuslage](images/Moreaerodyncicfuslge.png)
 ![Sketch explination](images/Smartexplination.png)
+![Motorcode1](images/motorcode1.png)
 
 ## Launching
 ### Week 16
 #### Reflection
 
-This week Matthias and Vinnie went to texas and visited big bend national park for spring break. 
+This week Matthias and Vinnie went to texas and visited Big Bend national park for spring break. 
+
 #### Images
 ![Texas trip](images/IMG_4200.jpg)
 ![Texas Trip v2](images/IMG_3933.jpg)
 
-
 ### Week 17
 #### Reflection
-#### Images
 
+We were not ready for launching because we didn't print yet. The code part wasn't done either and was still in the breadboard stage. [Matthias reflection here} Vinnie worked on setting up the servos to work with the RC controller. He got two servos attached and then was able to make both them go towards 180 with a button on the controller and both go towards 0 with a second button. The setup was not that tricky and he used old servo code from earlier in the project which worked fine. 
+
+#### Images
+![Servocode1](servocode1)
 
 
 ### Week 18
 #### Reflection
+
+This week we got closer to the final product. The CAD was getting its last touch ups and the code was moving along. [matthias reflectrion here} Vinnie worked on finishing the data collectin part of the project. After he completed and tested the data collection then the code was finally done. He forgot how the data collection software needed to be used and had to spend some time reviewing the old assignment. 
+
 #### Images
 
 ## Analysis
 ### Week 19
 #### Reflection
+
+This week we printed the CAD and worked on assembling it. The friction fits didn't quite work and we had to use hot glue to get the rods to fit. We also accidently printed two left wings which made the PLAIN unable to be assembled completely. There were also no holes for the wires from the motor to enter through the front back into the cockpit to connect with the PICO. [matthias reflection here} Vinnie took pictures of the 
+
 #### Images
 
 
@@ -193,8 +204,11 @@ This week Matthias and Vinnie went to texas and visited big bend national park f
 
 ### Week 22
 #### Reflection
-#### Images
 
+This week no work got done Because of the AP exams
+
+#### Images
+![apexams](images/apexams.png)
 
 
 ### Week 23
