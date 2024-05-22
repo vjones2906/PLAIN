@@ -132,10 +132,11 @@ This week we decided to scrap the connection launch because both teams were to f
 ### Week 14
 #### Reflection
 
-This week we both decided it would be a good idea to move on from the round design of our fusalage to a more square design that would be both easier to make and would allow for all of our electronics to fit better in the fusalage and have a better centre of mass. Matthias also found a new design that we agreed was a good idea to model off of.
+This week we both decided it would be a good idea to move on from the round design of our fusalage to a more square design that would be both easier to make and would allow for all of our electronics to fit better in the fusalage and have a better centre of mass. Matthias also found a new design that we agreed was a good idea to model off of. With the new design Matthias decided to move the servos onto the fusalage and put the wings onto the top of the plain which we believe would allow for more lift.
 #### Images
 
 ![modeldesign](images/Modeleddesign.png)
+![roundfuslage](images/roundfuslage.png)
 ![first square iteration](images/Frontpeice.png)
 
 ### Week 15
