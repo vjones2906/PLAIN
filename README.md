@@ -141,9 +141,12 @@ This week we both decided it would be a good idea to move on from the round desi
 
 ### Week 15
 #### Reflection
+
+This week Matthias worked on readjusting the plain to make it more aerodynamic and changing the way that the front was angled and adding more supports for the wing connection. Additionally, Matthias put on the back of the fusalage and used a friction fit design which incorperated a 2.45mm diameter metal rods in order to connect the peices together.
 #### Images
 
-
+![back fuslage](images/Backp2picture.png)
+![Aerodynamic fuslage](images/Moreaerodyncicfuslge.png)
 
 ### Week 16
 #### Reflection
