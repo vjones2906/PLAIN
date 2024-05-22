@@ -123,7 +123,7 @@ This week we were supposed to plan with Afton’s team for linked takeoff but we
 ### Week 13
 #### Reflection
 
-This week we decided to scrap the connection launch because both teams were to far behind to have enough time to test and get good results. Matthias worked on making the wings thinner and hopefully reducing the weight of the plain overall. This was achieved by changing the shape of the airfoil making every part of the airfoil 1mm thick. Vinnie worked on the motor votlage and found the right resistor for this job.
+This week we decided to scrap the connection launch because both teams were to far behind to have enough time to test and get good results. Matthias worked on making the wings thinner and hopefully reducing the weight of the plain overall, the wing change was also realized because we did not need such a tall airfoil and the length was going to be more important. This was achieved by changing the shape of the airfoil making every part of the airfoil 1mm thick. Vinnie worked on the motor votlage and found the right resistor for the job.
 #### Images
 
 ![thick wing](images/Wing1thick.png)
