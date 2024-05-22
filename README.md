@@ -97,7 +97,7 @@ This week we were supposed to work on linkage with Afton's team but both of our 
 ### Week 10
 #### Reflection
 
-This week we were supposed to code the delink protocol and complete the prototype with link. Neither of these things happened because Matthias was still working on his design for CAD and hadn't laser cut it yet. Vinnie was still working on the voltage dividers and experimenting with Mr. Miller's resitor book with many different types of resistors. 
+This week we were supposed to code the delink protocol and complete the prototype with link. Neither of these things happened because Matthias was still working on his design for CAD and hadn't laser cut it yet. Vinnie was still working on the voltage dividers and experimenting with Mr. Miller's resitor book with many different types of resistors. Matthias also put the servo mount on to the bottom of the wings so that it would be easy to control the flap movement, this idea was also used by matthew and afton on their first iteration.
 
 #### Images
 ![badcad](images/LMAO.png)
@@ -122,6 +122,8 @@ This week we were supposed to plan with Afton’s team for linked takeoff but we
 
 ### Week 13
 #### Reflection
+
+This week we decided to scrap the connection launch because both teams were to far behind to have enough time to test and get good results. Matthias worked on making the wings thinner and hopefully reducing the weight of the plain overall. This was achieved by changing the shape of the airfoil making every part of the airfoil 1mm thick. Vinnie worked on the motor votlage and found the right resistor for this job.
 #### Images
 
 
