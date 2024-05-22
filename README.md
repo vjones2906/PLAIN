@@ -154,8 +154,8 @@ This week Matthias worked on readjusting the plain to make it more aerodynamic a
 
 This week Matthias and Vinnie went to texas and visited big bend national park for spring break. 
 #### Images
-!(Texas trip)[images/IMG_4200.jpg]
-!(Texas Trip v2)[images/IMG_3933.jpg]
+![Texas trip](images/IMG_4200.jpg)
+![Texas Trip v2](images/IMG_3933.jpg)
 
 
 ### Week 17
