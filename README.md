@@ -148,10 +148,14 @@ This week Matthias worked on readjusting the plain to make it more aerodynamic a
 ![back fuslage](images/Backp2picture.png)
 ![Aerodynamic fuslage](images/Moreaerodyncicfuslge.png)
 ![Sketch explination](images/Smartexplination.png)
+
 ### Week 16
 #### Reflection
-#### Images
 
+This week Matthias and Vinnie went to texas and visited big bend national park for spring break. 
+#### Images
+!(Texas trip)[images/IMG_4200.jpg]
+!(Texas Trip v2)[images/IMG_3933.jpg]
 
 
 ### Week 17
