@@ -234,7 +234,7 @@ This week we realized that if we didn't have a succesful flight, we would get a 
 ![propeller](images/propeller.jpg)
 ![oldcardboardsealed](images/oldcardboardsealed.jpg)
 ![oldcockpit](images/oldcockpit.jpg)
-![brokenprop](images/prokenprop.jpg)
+![brokenprop](images/brokenprop.jpg)
 
 
 ### Week 24
