@@ -232,7 +232,6 @@ This week we realized that if we didn't have a succesful flight, we would get a 
 ![cardboardplane](images/cardboardplane.jpg)
 ![tail](images/tail.jpg)
 ![propeller](images/propeller.jpg)
-![sealedinsides](images/sealedinsides.jpg)
 ![oldcardboardsealed](images/oldcardboardsealed.jpg)
 ![oldcockpit](images/oldcockpit.jpg)
 ![brokenprop](images/prokenprop.jpg)
@@ -245,3 +244,4 @@ This week we worked on catching up on the documentation and then rearranged the 
 
 #### Images
 ![newcockpit](images/newcockpit.jpg)
+![sealedinsides](images/sealedinsides.jpg)
