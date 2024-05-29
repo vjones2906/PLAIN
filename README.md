@@ -207,8 +207,11 @@ This week we printed the correct set of wings. With all the parts finally materi
 
 ### Week 21
 #### Reflection
-#### Images
 
+This week we still held out hope for the printed shell to work with the electronics, which was honestly a waste of time. We put the finished electronics in the shell and the weight alone was a red flag. We did a couple practice tosses to eachother and it was the same as throwing a baseball; there was no lift whatsoever. [matthias reflection here). Vinnie finished the circuit and had fully fabricated all the the compenents. He tested the hardware and it worked when plugged into the computer, but when it was running off of the battery there was not enough power to keep everything running. He then figured out that he needed to send the motor control power through the pico instead of straight from the battery which drew too many amps because of the way it was hooked up. At the end of the week the system was fully funtioning off of the batteries and could be controlled anywhere. Vinnie also created a plane out of cardboard, duct tape, and dowles as a joke. (foreshadowing)
+
+#### Images
+![picobottom](images/picobottom.jpg)
 
 
 ### Week 22
@@ -222,4 +225,23 @@ This week no work got done Because of the AP exams
 
 ### Week 23
 #### Reflection
+
+This week we realized that if we didn't have a succesful flight, we would get a C. This forced us to decide to use the cardboard plane as our final project. The plane glided fairly well and was big enough to support the extra weight of the pico and batteries. [matthias reflection here -motor mount-}. Vinnie focused on cutting out a hole for the pico and battery on the main wings in order to keep the center of mass in the same spot it was before the extra hardware was added. Once the motor mount was printed we found out that the holes were a little too close together, so we used the drill to make the holes bigger and then used bolts with a small radius at an angle to get away with the holes still not being perfectly lined up. We then test launched a couple of times, the first being very succesful until the motor stalled. The second one was thrown with a downward angle and went straight into the ground and broke the propeller. It was evaluated that the motor stalling was a voltage issue because the battery we had was rated 3-4 volts beneath the recommended battery voltage for our specific motor. Afton agreed to lend us an extra battery of his that met the recomended minimum voltage.   
+
 #### Images
+![cardboardplane](images/cardboardplane.jpg)
+![tail](images/tail.jpg)
+![propeller](images/propeller.jpg)
+![sealedinsides](images/sealedinsides.jpg)
+![oldcardboardsealed](images/oldcardboardsealed.jpg)
+![oldcockpit](images/oldcockpit.jpg)
+![brokenprop](images/prokenprop.jpg)
+
+
+### Week 24
+#### Reflection
+
+This week we worked on catching up on the documentation and then rearranged the cockpit in order to fit the new battery.
+
+#### Images
+![newcockpit](images/newcockpit.jpg)
