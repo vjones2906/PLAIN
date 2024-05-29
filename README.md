@@ -177,10 +177,12 @@ We were not ready for launching because we didn't print yet. The code part wasn'
 ### Week 18
 #### Reflection
 
-This week we got closer to the final product. The CAD was getting its last touch ups and the code was moving along. [matthias reflectrion here} Vinnie worked on finishing the data collecting part of the project. After he completed and tested the data collection then the code was finally done. He forgot how the data collection software needed to be used and had to spend some time reviewing the old assignment. 
+This week we got closer to the final product. The CAD was printed over the weekend and the code was moving along. As the parts were printed Matthias noticed some things were not working right. this was expected from our first draft, one thing Matthias immediately recognized was the the flaps would not be able to rotate very well and it would be hard to put them into the wings the way it was designed. Matthias decided the change the design in order to make it rotate better through the use of hinge pin design(seen below). This method needed to have a rod in the middle of the pins in order to make the rotation perfect so Matthias used one of the rods given to him by matthew. Vinnie worked on finishing the data collecting part of the project. After he completed and tested the data collection then the code was finally done. He forgot how the data collection software needed to be used and had to spend some time reviewing the old assignment. 
 
 #### Images
 ![codefinal](images/codefinal.png)
+![wing change](images/Wing1picutrfpdoc.png)
+![Hingepin](images/Hingepindesign.png)
 
 
 ## Analysis
