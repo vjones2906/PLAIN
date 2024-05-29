@@ -176,9 +176,11 @@ We were not ready for launching because we didn't print yet. The code part wasn'
 ### Week 18
 #### Reflection
 
-This week we got closer to the final product. The CAD was getting its last touch ups and the code was moving along. [matthias reflectrion here} Vinnie worked on finishing the data collectin part of the project. After he completed and tested the data collection then the code was finally done. He forgot how the data collection software needed to be used and had to spend some time reviewing the old assignment. 
+This week we got closer to the final product. The CAD was getting its last touch ups and the code was moving along. [matthias reflectrion here} Vinnie worked on finishing the data collecting part of the project. After he completed and tested the data collection then the code was finally done. He forgot how the data collection software needed to be used and had to spend some time reviewing the old assignment. 
 
 #### Images
+![codefinal](images/codefinal.png)
+
 
 ## Analysis
 ### Week 19
@@ -192,6 +194,9 @@ This week we printed the CAD and worked on assembling it. The friction fits didn
 
 ### Week 20
 #### Reflection
+
+This week we printed the correct set of wings. With all the parts finally materialized we could put it together for real. We threw the completed PLAIN shell back and forth to test the lift and even without the extra weight from the circuit board it did not glide at all. This is when we realized we might have a problem. [matthias reflection here}. Vinnie worked on the wiring for the project and came in during his 6th period in order to have more time to work. He got almost all the wiring done and just had to add one more servo. The main problem for Vinnie was not being able to find the small needle nose pliers the lab to assist with soldering the wires. His patients was also tested when certain wires wouldn't soldier together without springing away. Sometimes he used his fingers which hurt. 
+
 #### Images
 
 
