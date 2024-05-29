@@ -189,7 +189,7 @@ This week we got closer to the final product. The CAD was printed over the weeke
 ### Week 19
 #### Reflection
 
-We could not analize what we didn't have, so they continued to try and finish the PLAIN. This week we printed the CAD and worked on assembling it. The friction fits didn't quite work and we had to use hot glue to get the rods to fit. We also accidently printed two left wings which made the PLAIN unable to be assembled completely. There were also no holes for the wires from the motor to enter through the front back into the cockpit to connect with the PICO. [matthias reflection here} Vinnie took pictures of the wiring so that he could start soldering the permanant board together so that it would fit in the PLAIN. 
+We could not analize what we didn't have, so we continued to try and finish the PLAIN. This week we printed the CAD and worked on assembling it. The friction fits didn't quite work and we had to use hot glue to get the rods to fit. We also accidently printed two left wings which made the PLAIN unable to be assembled completely. There were also no holes for the wires from the motor to enter through the front back into the cockpit to connect with the PICO. [matthias reflection here} Vinnie took pictures of the wiring so that he could start soldering the permanant board together so that it would fit in the PLAIN. 
 
 #### Images
 ![wires](images/wiresforswitch.jpg)
@@ -201,8 +201,9 @@ We could not analize what we didn't have, so they continued to try and finish th
 This week we printed the correct set of wings. With all the parts finally materialized we could put it together for real. We threw the completed PLAIN shell back and forth to test the lift and even without the extra weight from the circuit board it did not glide at all. This is when we realized we might have a problem. [matthias reflection here}. Vinnie worked on the wiring for the project and came in during his 6th period in order to have more time to work. He got almost all the wiring done and just had to add one more servo. The main problem for Vinnie was not being able to find the small needle nose pliers the lab to assist with soldering the wires. His patients was also tested when certain wires wouldn't soldier together without springing away. Sometimes he used his fingers which hurt. 
 
 #### Images
-
-
+![planefront](images/junkplainfront)
+![planeback](images/junkplainback)
+![pciotop](images/picotop)
 
 ### Week 21
 #### Reflection
