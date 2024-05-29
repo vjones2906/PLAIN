@@ -201,9 +201,9 @@ We could not analize what we didn't have, so we continued to try and finish the 
 This week we printed the correct set of wings. With all the parts finally materialized we could put it together for real. We threw the completed PLAIN shell back and forth to test the lift and even without the extra weight from the circuit board it did not glide at all. This is when we realized we might have a problem. [matthias reflection here}. Vinnie worked on the wiring for the project and came in during his 6th period in order to have more time to work. He got almost all the wiring done and just had to add one more servo. The main problem for Vinnie was not being able to find the small needle nose pliers the lab to assist with soldering the wires. His patients was also tested when certain wires wouldn't soldier together without springing away. Sometimes he used his fingers which hurt. 
 
 #### Images
-![planefront](images/junkplainfront)
-![planeback](images/junkplainback)
-![pciotop](images/picotop)
+![planefront](images/junkplainfront.jpg)
+![planeback](images/junkplainback.jpg)
+![pciotop](images/picotop.jpg)
 
 ### Week 21
 #### Reflection
