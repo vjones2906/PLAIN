@@ -167,11 +167,12 @@ This week Matthias and Vinnie went to texas and visited Big Bend national park f
 ### Week 17
 #### Reflection
 
-We were not ready for launching because we didn't print yet. The code part wasn't done either and was still in the breadboard stage. [Matthias reflection here} Vinnie worked on setting up the servos to work with the RC controller. He got two servos attached and then was able to make both them go towards 180 with a button on the controller and both go towards 0 with a second button. The setup was not that tricky and he used old servo code from earlier in the project which worked fine. 
+We were not ready for launching because we didn't print yet. The code part wasn't done either and was still in the breadboard stage. This week Matthias finished up some last kinks on the PLAIN in order to have printed parts by next week. Matthias pushed out the friction fit connector on the back fusalage all the way to 11mm and on the front to 31mm in order to maximize the connection aspect from both ends. Vinnie worked on setting up the servos to work with the RC controller. He got two servos attached and then was able to make both them go towards 180 with a button on the controller and both go towards 0 with a second button. The setup was not that tricky and he used old servo code from earlier in the project which worked fine. 
 
 #### Images
 ![Servocode1](images/servocode1.png)
-
+![backconnection](images/Backconnection.png) 
+![Front connecter](images/Frontconnecter31mm.png)
 
 ### Week 18
 #### Reflection
