@@ -170,7 +170,7 @@ This week Matthias and Vinnie went to texas and visited Big Bend national park f
 We were not ready for launching because we didn't print yet. The code part wasn't done either and was still in the breadboard stage. [Matthias reflection here} Vinnie worked on setting up the servos to work with the RC controller. He got two servos attached and then was able to make both them go towards 180 with a button on the controller and both go towards 0 with a second button. The setup was not that tricky and he used old servo code from earlier in the project which worked fine. 
 
 #### Images
-![Servocode1](servocode1)
+![Servocode1](images/servocode1.png)
 
 
 ### Week 18
@@ -184,10 +184,10 @@ This week we got closer to the final product. The CAD was getting its last touch
 ### Week 19
 #### Reflection
 
-This week we printed the CAD and worked on assembling it. The friction fits didn't quite work and we had to use hot glue to get the rods to fit. We also accidently printed two left wings which made the PLAIN unable to be assembled completely. There were also no holes for the wires from the motor to enter through the front back into the cockpit to connect with the PICO. [matthias reflection here} Vinnie took pictures of the 
+This week we printed the CAD and worked on assembling it. The friction fits didn't quite work and we had to use hot glue to get the rods to fit. We also accidently printed two left wings which made the PLAIN unable to be assembled completely. There were also no holes for the wires from the motor to enter through the front back into the cockpit to connect with the PICO. [matthias reflection here} Vinnie took pictures of the wiring so that he could start soldering the permanant board together so that it would fit in the PLAIN. 
 
 #### Images
-
+![wires](wiresforswitch)
 
 
 ### Week 20
