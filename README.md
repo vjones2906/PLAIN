@@ -186,7 +186,7 @@ This week we got closer to the final product. The CAD was getting its last touch
 ### Week 19
 #### Reflection
 
-This week we printed the CAD and worked on assembling it. The friction fits didn't quite work and we had to use hot glue to get the rods to fit. We also accidently printed two left wings which made the PLAIN unable to be assembled completely. There were also no holes for the wires from the motor to enter through the front back into the cockpit to connect with the PICO. [matthias reflection here} Vinnie took pictures of the wiring so that he could start soldering the permanant board together so that it would fit in the PLAIN. 
+The team could not analize what they didn't have, so they continued to try and finish the PLAIN. This week we printed the CAD and worked on assembling it. The friction fits didn't quite work and we had to use hot glue to get the rods to fit. We also accidently printed two left wings which made the PLAIN unable to be assembled completely. There were also no holes for the wires from the motor to enter through the front back into the cockpit to connect with the PICO. [matthias reflection here} Vinnie took pictures of the wiring so that he could start soldering the permanant board together so that it would fit in the PLAIN. 
 
 #### Images
 ![wires](images/wiresforswitch.jpg)
