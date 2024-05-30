@@ -212,6 +212,7 @@ This week we still held out hope for the printed shell to work with the electron
 
 #### Images
 ![picobottom](images/picobottom.jpg)
+![Pivot](images/Pivotimagev4.png)
 
 
 ### Week 22
