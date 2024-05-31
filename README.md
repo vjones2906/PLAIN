@@ -247,3 +247,7 @@ This week we worked on catching up on the documentation and then rearranged the 
 #### Images
 ![newcockpit](images/newcockpit.jpg)
 ![sealedinsides](images/sealedinsides.jpg)
+
+### Tying it all together
+
+From the start of this project, we had very lofty ambitions. We started with the idea that we would work with Afton and Matthew and have our planes launch togetherand split midair, this, unfortunatly didn't come to fruition because both teams were too far behind to end up working together.
