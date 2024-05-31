@@ -241,7 +241,7 @@ This week we realized that if we didn't have a succesful flight, we would get a 
 ### Week 24
 #### Reflection
 
-This week we worked on catching up on the documentation and then rearranged the cockpit in order to fit the new battery.
+This week we worked on catching up on the documentation and then rearranged the cockpit in order to fit the new battery. On thrusday we went outside to launch and the PLAIN did fairly well, clearly producing lift, until it banked to the left and crashed. The reason for the bank was the battery was placed a little too far to the left and because it is the heaviest component attached, it dragged the whole thing to the left. The motor was spinning much faster with the new battery and didn't have the error where the throttle decreased on its own. It might've been better to start at 75% power and then increase as needed through the flight because we also changed the angle of attack by angling the motor up a little bit. The PLAIN completely destroyed itself upon landing and became unusable for a second flight. The data collection was succesful and shows the acceleration during the flight. However in order to create a smoother graph for a shorter flight, the rate at which the data was collected could have been speed up a good bit. It is also frustrating that the PLAIN can't be tested twice in the same period because of the way it breaks. This could have been changed by throwing it at a different angle, and then not throwing it off the biggest hill for the first test of the day (test flight 3). The pico and electronics still functioned after the crash and only the dowells and prop were damaged. 
 
 #### Images
 ![newcockpit](images/newcockpit.jpg)
