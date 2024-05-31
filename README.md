@@ -247,6 +247,7 @@ This week we worked on catching up on the documentation and then rearranged the 
 #### Images
 ![newcockpit](images/newcockpit.jpg)
 ![sealedinsides](images/sealedinsides.jpg)
+![data](images/datagraphs.png)
 
 ### Tying it all together
 
