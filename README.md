@@ -262,7 +262,7 @@ From the start of this project, we had very lofty ambitions. The inital idea tha
 
 #### CAD
 
-The CAD was flawed from the start when there was not enough time brainstorming a functional design and a lot of time was wasted on half finished designs that were half thought through.
+The CAD was flawed from the start when there was not enough time brainstorming a functional design and a lot of time was wasted on half finished designs that were half thought through. Unfortunatly, neither of us had come up with an idea that we had could either agree upon or something that we believed was going to work, because of this big oversight, our project was difficult to complete. This all came down to communcation, neither one of us communicted to each other about what the CAD design should look like, or what we wanted from the CAD, this led to the overall error and multiple designs. At certian points, the CAD would not be up to one of our standards of what we A: thought a conventional plane could look like, and B: believed would actually fly. This descrepincy in ideas led Matthias to make over 3 itterations on the CAD, fianlly settling on our final design. We also learned at the end of the project that realistically, no plane with the constraints we had such as using PLA and a 440mm max wingspan would be able to fly or achieve any sort of thrust. Overall, both of us learned valuable things about time-management and communication that will help us improve as engineers and students.
 
 #### Code
 
@@ -275,6 +275,7 @@ The code/hardware part took longer than it should have because in addition to fr
 
 #### CAD
 
+While in the end, we used a non-CAD design, the things that Matthias learned in CAD will be helpful in the future. He learned about using planes in order to mold the design into what he intended, He used the loft tool in all the designs in order to create the back fusalage and it was something that he learned how to use this year and that made CAD design a lot easier. By the end of the project we needed a motor mount quickly, and in less than 20 minutes, Matthias was able to take the dimensions of the motor and the pole and create a motor mount that would be sutable and strong for the PLAIN. This was crucial to the process because we were running out of time and needed to get our plane in the air for a test run. This also was a culmination of knowledge and practice throughout the year, at the beginning of the year there was no chance Matthias was doing that as fast as he did, but by the end after plenty of practice this task felt like a breeze. Link to CAD [Here](https://cvilleschools.onshape.com/documents/3238cdf8a1991a2a3ab7aaf8/w/c31861085483687205792ad4/e/04aacecd12e49e444d40facb) 
 
 
 #### Code
