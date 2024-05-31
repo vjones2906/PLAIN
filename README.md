@@ -13,6 +13,7 @@
 * [Phase 4](#phase_4)
 * [Launching](#launching)
 * [Analysis](#analysis)
+* [Final_reflection](#Tying_it_all_together)
 
 
 &nbsp;
@@ -255,4 +256,4 @@ This week we worked on catching up on the documentation and then rearranged the 
 
 ### Tying it all together
 
-From the start of this project, we had very lofty ambitions. The inital idea that we would work with Afton and Matthew and have our planes launch together and split midair didn't come to fruition because both teams were too far behind to end up working together. 
+From the start of this project, we had very lofty ambitions. The inital idea that we would work with Afton and Matthew and have our planes launch together and split midair didn't come to fruition because both teams were too far behind at the point where we needed to work together. The final functionality of the project was also limited when we chose to create a plane out of PLA and didn't consider the required weight-wingspan-trust ratio to produce lift. Throughout the year we worked on our seperate parts and had many setbacks, especially in the CAD department where there was not enough time brainstorming a functional design and a lot to time was wasted on half finished designs that were half thought through. The code/hardware part took longer than it should have because Vinnie didn't make a clear plan for all the exact parts he needed and ended up stagering his orders (and made the mistake of ordering from ali-express) which created a couple weeks where he couldn't move on to the next stage of the project. Vinnie also got hung up on some voltage issues and wasted time trying to make a voltage divider that allowed him to only use one battery, which wasn't necessary because he needed an extra battery to run the motor anyways. In the end he got his part of the project fully done to what was planned in the start minus the linkage. He got two servos (meant for the flaps) and a brushless motor (for the prop) to be controlled by a remote controller that could also start and stop data collection which was very handy when testing the PLAIN. 
