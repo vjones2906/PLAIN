@@ -248,6 +248,10 @@ This week we worked on catching up on the documentation and then rearranged the 
 ![newcockpit](images/newcockpit.jpg)
 ![sealedinsides](images/sealedinsides.jpg)
 ![data](images/datagraphs.png)
+![crash](images/planecrash.jpg)
+![aftermath](images/floppyplain.jpg)
+![flight3](images/flight3.gif)
+
 
 ### Tying it all together
 
