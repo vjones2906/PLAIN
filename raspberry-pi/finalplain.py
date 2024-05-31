@@ -8,12 +8,6 @@ from adafruit_motor import servo
 from digitalio import DigitalInOut, Direction, Pull
 from time import sleep, monotonic                      #importing libraries
 
-led = digitalio.DigitalInOut(board.GP1)                #telling the pico that there is something on pin 0
-led.direction = digitalio.Direction.OUTPUT             #declaring  led as an output in pin 0
-
-ledBoard = digitalio.DigitalInOut(board.LED)        
-ledBoard.direction = digitalio.Direction.OUTPUT        #declaring onboard led
-
 sda_pin = board.GP14                                   #defining sda pin
 scl_pin = board.GP15                                   #defining the scl pin
 i2c = busio.I2C(scl_pin, sda_pin)                      #creating the i2c from the pins
