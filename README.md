@@ -271,7 +271,7 @@ The code/hardware part took longer than it should have because in addition to fr
 ### Successes
 #### General
 
-
+The final PLAIN produced a lot of lift and was clearly capable of a longer flight if the weight was distributed evenly. The PLAIN also collected data during the flight and could be controlled from a good distance with the remote controler. We completed our proof of concepts individually which helped as the project developed. We also learned a lot of things individually which improved our skills as engineers and will help us with our capstone projects. We improved communication a lot which helped with morale and showed a wanting to succede. There were many small wins along the way such as getting the RC working and creating a working airfoil in CAD that each improved our skills and inspired us to finish the project. We grew together, not apart which might have been what of the biggest successes along with being able to say we had a succesful flight in the end.    
 
 #### CAD
 
