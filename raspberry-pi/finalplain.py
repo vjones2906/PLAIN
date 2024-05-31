@@ -13,7 +13,7 @@ scl_pin = board.GP15                                   #defining the scl pin
 i2c = busio.I2C(scl_pin, sda_pin)                      #creating the i2c from the pins
 mpu = adafruit_mpu6050.MPU6050(i2c)
 
-ll = digitalio.DigitalInOut(board.GP2)                 #mapping controller buttons to inputs
+ll = digitalio.DigitalInOut(board.GP2)                 #mapping controller buttons to inputs (abbreviations: first letter is which thumbpad and second letter is which direction eg. ll=left pad left direction)
 ll.direction = digitalio.Direction.INPUT
 ll.pull = digitalio.Pull.UP 
 
